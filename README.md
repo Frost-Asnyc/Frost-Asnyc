@@ -1,16 +1,81 @@
-## Hi there 👋
+## Learning log
 
-<!--
-**Frost-Asnyc/Frost-Asnyc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/hero?username=frost-asnyc&theme=zen&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F272155943%3Fu%3D29d6ddd9b063fe85afbafe0a490d1354e86eb2fb%26v%3D4" alt="frost-asnyc hero visual" />
+</p>
 
-Here are some ideas to get you started:
+**frost-asnyc** · Frontend or full-stack engineer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently learning
+
+> Building useful things and learning in public.
+
+**Learning next**
+
+- HTML
+- JavaScript
+- CSS
+
+👥 **1** followers · **0** following
+
+## Tools I’m practicing
+
+- **HTML** · 33%
+- **JavaScript** · 25%
+- **CSS** · 23%
+- **Python** · 19%
+
+## Projects in progress
+
+<details>
+<summary><b>Akan-name-generator</b> · JavaScript</summary>
+
+A cultural inspired website made to show you your Ghanaian blessed name based on your Birth-day.<br/>
+⭐ 0 · 🍴 0
+
+[View repository](https://github.com/Frost-Asnyc/Akan-name-generator)
+</details>
+
+<details>
+<summary><b>ASNYC---Rentals</b> · HTML</summary>
+
+ASNYC rentals is a luxury car rental site, created to narrow down your dream car for the perfect occation or day to  day tasks<br/>
+⭐ 0 · 🍴 0
+
+[View repository](https://github.com/Frost-Asnyc/ASNYC---Rentals)
+</details>
+
+<details>
+<summary><b>html-travel-blog-lab</b> · HTML</summary>
+
+A selected project from this GitHub profile.<br/>
+⭐ 0 · 🍴 0
+
+[View repository](https://github.com/Frost-Asnyc/html-travel-blog-lab)
+</details>
+
+## Progress so far
+
+- **Current streak:** 1 days
+- **Longest streak:** 4 days
+- **Active days:** 55 days
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/stats?username=frost-asnyc&theme=zen&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F272155943%3Fu%3D29d6ddd9b063fe85afbafe0a490d1354e86eb2fb%26v%3D4" alt="frost-asnyc stats visual" />
+</p>
+
+## Learning streak
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/heatmap?username=frost-asnyc&theme=zen" alt="frost-asnyc contribution activity" />
+</p>
+
+## Say hello
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/social?username=frost-asnyc&theme=zen&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F272155943%3Fu%3D29d6ddd9b063fe85afbafe0a490d1354e86eb2fb%26v%3D4" alt="frost-asnyc social visual" />
+</p>
+
+<a href="https://github.com/frost-asnyc">GitHub</a>
+
+<p align="center"><sub>frost-asnyc · Learning profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
