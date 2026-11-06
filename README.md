@@ -30,6 +30,8 @@
 - **JavaScript** · 25%
 - **CSS** · 23%
 - **Python** · 19%
+- **Flask** . 19%
+- **React** . 34%
 
 ## Projects in progress
 
