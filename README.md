@@ -1,20 +1,26 @@
-## Learning log
+
 
 <p align="center">
   <img src="https://www.gitskins.com/api/section/hero?username=frost-asnyc&theme=zen&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F272155943%3Fu%3D29d6ddd9b063fe85afbafe0a490d1354e86eb2fb%26v%3D4" alt="frost-asnyc hero visual" />
 </p>
 
-**frost-asnyc** · Frontend or full-stack engineer
+**Frost-Asnyc** · Frontend / full-stack engineer
 
 ## Currently learning
+- HTML
+- JavaScript
+- CSS
+- Python
+- React
+- SQL
+- Flask
 
 > Building useful things and learning in public.
 
 **Learning next**
 
-- HTML
-- JavaScript
-- CSS
+- Machine Learning
+- AI Automation
 
 👥 **1** followers · **0** following
 
